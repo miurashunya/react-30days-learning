@@ -9,6 +9,11 @@
 
 ## 🗓️ カリキュラム
 
+### Week 0: Web基礎 (Day 0-1, Day 0-2)
+
+- Day 0-1 — [HTML / CSS / JavaScript と DOM](week0/day01.md) （手書き Hello World 実習: `week0/hello.html`）
+- Day 0-2 — [DOM vs BOM・Flexbox / CSS Grid・Flutter 風 UI](week0/day02.md)
+
 ### Week 1: JavaScript 基礎 (Day 1-7)
 
 | Day | トピック | 内容 |
